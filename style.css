@@ -1,0 +1,22 @@
+body {
+    background: rgb(218, 238, 255);
+    text-align: center;
+    text-decoration: none;
+    font-family: sans-serif
+}
+.btn {
+    margin: auto 0;
+    display: inline;
+    margin: 15px 5px;
+    padding: 5px;
+    background: white;
+    border: 1px solid grey;;
+    border-bottom: 3px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(244, 244, 244);
+    border-bottom: 2px solid black;
+    color: rgb(78, 78, 78);
+}
